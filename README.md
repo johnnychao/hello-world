@@ -1,2 +1,3 @@
 # hello-world
-first time to use github
+Hi~
+I am very glad to join github.
